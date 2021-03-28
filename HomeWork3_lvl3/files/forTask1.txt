@@ -1,0 +1,1 @@
+To read file (50 bytes) and translate this in byte array
